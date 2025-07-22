@@ -19,6 +19,6 @@ This Power BI dashboard provides insights into the performance of Blinkit (an on
 ## 📁 File
 - `Blinkit.pbix`: Complete interactive dashboard file
 
-## 🙋‍♀️ Author
-Built by Vaishnavi Biradar  
-[GitHub Profile](https://github.com/VaishnaviBiradar942) | [LinkedIn](https://www.linkedin.com/in/vaishnavibiradar942)
+## 🙋‍♀️ Developed by
+Vaishnavi Biradar  
+[GitHub](https://github.com/VaishnaviBiradar942) | [LinkedIn](https://www.linkedin.com/in/vaishnavibiradar942)
