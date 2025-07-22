@@ -14,7 +14,7 @@ This Power BI dashboard provides insights into the performance of Blinkit (an on
 - Delivery time analysis
 
 ## 📷 Dashboard Screenshot
-*(Add a screenshot image here if available)*
+*<img width="1286" height="719" alt="Image" src="https://github.com/user-attachments/assets/2b79a0bf-5df1-4b50-90d3-335f74f7fe4b" />*
 
 ## 📁 File
 - `Blinkit.pbix`: Complete interactive dashboard file
